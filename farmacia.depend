@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1659554646 source:c:\users\gabri\onedrive\Área de trabalho\prova 1\prova\farmacia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
